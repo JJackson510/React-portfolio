@@ -1,24 +1,24 @@
 [
     {
         "id": "1",
-        "image": "https://github.com/ditazan/LocalBeats/raw/main/assets/images/localbeats.png",
+        "image": "https://github.com/JJackson510/LocalBeats/raw/main/assets/images/localbeats.png",
         "github": "https://github.com/JJackson510/LocalBeats",
         "deploy": "https://ditazan.github.io/LocalBeats/",
-        "topics": ""
+        "topics": "HTML, Javascript, CSS, Bulma, p5.js, jQuery, API"
     },
     {
         "id": "2",
         "image": "../src/assect/img/Run buddy-min.png",
         "github": "https://github.com/JJackson510/run_buddy",
         "deploy": "https://jjackson510.github.io/run_buddy/",
-        "topics": ""
+        "topics": "HTML, Javascript, CSS"
     },
     {
         "id": "3",
         "image": "../src/assect/img/zoo-keeper.png",
         "github": "https://github.com/JJackson510/zookeeper",
         "deploy": "https://zoo-keeper510.herokuapp.com/",
-        "topics": ""
+        "topics": "Node.js, API, Express, Javascript, CSS"
     },
     {
         "id": "4",
