@@ -4,10 +4,10 @@ function About() {
 
     return(
         <section className="container">
-            <h2 class="top-title">Jamie Jackson</h2>
+            <h2 className="top-title">Jamie Jackson</h2>
             <hr></hr>
             <div>
-                <img class="mb-5" id="avatar" src="https://avatars.githubusercontent.com/u/89232885?v=4" alt="Jamie Jackson" />
+                <img className="mb-5" id="avatar" src="https://avatars.githubusercontent.com/u/89232885?v=4" alt="Jamie Jackson" />
 
                 <p>
                 Front-end web developer leveraging government and commercial backgrounds to build a more relevant and user-friendly experience on the web. 

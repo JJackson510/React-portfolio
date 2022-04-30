@@ -8,14 +8,14 @@
     },
     {
         "id": "2",
-        "image": "../src/assect/img/Run buddy-min.png",
+        "image": "img/Run buddy-min.png",
         "github": "https://github.com/JJackson510/run_buddy",
         "deploy": "https://jjackson510.github.io/run_buddy/",
         "topics": "HTML, Javascript, CSS"
     },
     {
         "id": "3",
-        "image": "../src/assect/img/zoo-keeper.png",
+        "image": "img/zoo-keeper.png",
         "github": "https://github.com/JJackson510/zookeeper",
         "deploy": "https://zoo-keeper510.herokuapp.com/",
         "topics": "Node.js, API, Express, Javascript, CSS"
