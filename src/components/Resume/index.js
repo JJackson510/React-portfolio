@@ -25,7 +25,7 @@ return (
         </p>
 
         <a
-            href="https://docs.google.com/document/d/1uLxzfMjBP4-BiDsCGG4O9IWRXteEOcvJl3tOO91ONT8/edit?usp=sharing"
+            href="https://docs.google.com/document/d/1qb30L5YBvLRQZs9g5h91B4db4giEGNoO/edit?usp=sharing&ouid=107852221099332774343&rtpof=true&sd=true"
             className="link"
         >
             Download Resume
