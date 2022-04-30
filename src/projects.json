@@ -8,14 +8,14 @@
     },
     {
         "id": "2",
-        "image": "img/Run buddy-min.png",
+        "image": "https://res.cloudinary.com/dstmyg9ax/image/upload/v1651359602/Run_buddy_qstmqn.png",
         "github": "https://github.com/JJackson510/run_buddy",
         "deploy": "https://jjackson510.github.io/run_buddy/",
         "topics": "HTML, Javascript, CSS"
     },
     {
         "id": "3",
-        "image": "img/zoo-keeper.png",
+        "image": "https://res.cloudinary.com/dstmyg9ax/image/upload/v1651360072/zoo-keeper_kvgyft.png",
         "github": "https://github.com/JJackson510/zookeeper",
         "deploy": "https://zoo-keeper510.herokuapp.com/",
         "topics": "Node.js, API, Express, Javascript, CSS"
