@@ -17,7 +17,7 @@ function ProjectCards(props) {
               src="https://img.icons8.com/fluent/48/000000/github.png"
               alt="GitHub Repo"
             />
-          </a>
+          </a> Cards
           <a href={props.deploy}>
             <img
               className="project-icon"
@@ -29,7 +29,10 @@ function ProjectCards(props) {
         <p className="topics">({props.topics})</p>
       </div>
     </div>
+    
   );
 }
+
+
 
 export default ProjectCards;
