@@ -47,7 +47,7 @@ return (
             </div>
             <div className="mt-5" >
                 <label htmlFor="email">Email Address:</label>
-                <input className="form-control" type="email"  name="email" defaultValue={email} onBlur={handleChange} />
+                <input className="form-control" type="email"  name="email"  defaultValue={email} onBlur={handleChange} />
             </div>
             <div className="mt-5" >
                 <label htmlFor="message">Message:</label>

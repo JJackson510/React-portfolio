@@ -26,5 +26,13 @@
         "github": "https://github.com/JJackson510/social-junkie",
         "deploy": "https://chitchat2022.herokuapp.com/",
         "topics": "Javascript, CSS, Handlebars"
+    },
+    {
+        "id": "5",
+        "image": "https://res.cloudinary.com/dstmyg9ax/image/upload/v1651543098/image_rbwrct.png",
+        "github": "https://github.com/JJackson510/social-junkie",
+        "deploy": "https://houseplant22.herokuapp.com/",
+        "topics": "Javascript, CSS, React, graphql, stripe, Json web token"
+
     }
 ]
