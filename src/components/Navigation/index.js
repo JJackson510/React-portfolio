@@ -26,7 +26,7 @@ return (
             {/* <NavLink to="/contact">
             <div className="nav-font text-light">Contact</div>
             </NavLink> */}
-            <div className="nav-font text-light"><a href="mailto:jamiej.jj5@gmail.com">Contact</a></div>
+            <div className="nav-font text-light"><a href="mailto:jackson.develop91@gmail.com">Contact</a></div>
         </li>
         <li className="nav-item">
             <NavLink to="/resume">
